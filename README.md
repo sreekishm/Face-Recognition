@@ -13,3 +13,4 @@ A real-time face recognition system built with Python that identifies individual
 - OpenCV — video capture and image processing
 - face_recognition — face detection and encoding (built on dlib)
 - pickle — serializing face encodings
+- Numpy compatibility <2.0
