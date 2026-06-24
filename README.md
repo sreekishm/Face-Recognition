@@ -14,3 +14,5 @@ A real-time face recognition system built with Python that identifies individual
 - face_recognition — face detection and encoding (built on dlib)
 - pickle — serializing face encodings
 - Numpy compatibility <2.0
+
+> To view the ouput, please download the file
